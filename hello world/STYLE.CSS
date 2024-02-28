@@ -1,0 +1,70 @@
+
+body {
+    background-color: black;
+}
+
+
+.one {
+    font-size: 40px;
+    font-style: unset;
+    /* background-color: blue; */
+    color: aliceblue;
+}
+
+
+.web {
+    font-size: 30px;
+    color: aliceblue;
+}
+.list {
+    font-size: 40px;
+    color: aliceblue;
+}
+.moenjo {
+    /* color: aqua; */
+    font-size: 30px;
+    color: aliceblue;
+}
+.pic {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.poto {
+    border-style: double    ;
+    border-color: rgb(0, 0, 0);
+    border-width: 40px;
+    background-color: rgb(153, 85, 7);
+
+}
+
+.pra {
+    color: aquamarine;
+    font-size: 20px;
+}
+
+.type {
+    color: aliceblue;
+
+}
+.home{
+    padding: 25px;
+    margin: -;
+}
+
+
+
+
+
+                        /* L I N K S */
+
+.link{
+    text-decoration: none;
+    color: beige;
+
+}
+.pral{
+    text-align: center;
+    text-decoration: none;
+    color: aquamarine;
+}
